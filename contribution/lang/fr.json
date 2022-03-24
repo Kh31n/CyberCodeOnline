@@ -5,11 +5,11 @@
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
- 	 	 	"trans": "Quête",
+ 	 	 	"trans": "Quête(s)",
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
- 	 	 	"trans": "Tchat",
+ 	 	 	"trans": "Chat",
  	 	 	"eng": "Chat"
  	 	},
  	 	"profile": {
@@ -24,7 +24,7 @@
  	"npc": {
  	 	"unitExchange": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bureau de vente d'Arasaka",
+ 	 	 	 	"trans": "Bureau de vente Arasaka",
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
@@ -32,7 +32,7 @@
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Tu dois être au moins niveau 3 pour accéder au Bureau de vente d'Arasaka",
+ 	 	 	 	"trans": "Tu dois être au moins niveau 3 pour accéder au Bureau de vente Arasaka",
  	 	 	 	"eng": "You need to be at least level 3 to access unit exchange"
  	 	 	},
  	 	 	"defaultLines": {
@@ -5250,7 +5250,7 @@
  	 	 	 	 	"eng": "Join Dungeon"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Rejoigner le donjon d'un autre joueur",
+ 	 	 	 	 	"trans": "Rejoindre le donjon d'un autre joueur",
  	 	 	 	 	"eng": "Join other player's dungeon"
  	 	 	 	}
  	 	 	},
@@ -5286,11 +5286,11 @@
  	 	 	},
  	 	 	"globalChat": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Utiliser le tchat global",
+ 	 	 	 	 	"trans": "Utiliser le chat global",
  	 	 	 	 	"eng": "Use global chat"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Discuter avec d'autres joueurs, SPAM NON AUTORISES",
+ 	 	 	 	 	"trans": "Discuter avec d'autres joueurs, SPAM NON AUTORISÉS",
  	 	 	 	 	"eng": "Chat with other players, spam not allowed"
  	 	 	 	}
  	 	 	},
@@ -5487,7 +5487,7 @@
  	"equipmentMarks": {
  	 	"mark1": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "Mortel",
+ 	 	 	 	"trans": "Létal",
  	 	 	 	"eng": "Lethal"
  	 	 	},
  	 	 	"description": {
@@ -5566,7 +5566,7 @@
  	 	 	"eng": "Moderator"
  	 	},
  	 	"admin": {
- 	 	 	"trans": "Admin",
+ 	 	 	"trans": "Administrateur",
  	 	 	"eng": "Admin"
  	 	}
  	},
